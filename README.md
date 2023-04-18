@@ -1,1 +1,1 @@
-# DB-and-SQL-for-data-science-
+# Databases and SQL for Data Science with Python
